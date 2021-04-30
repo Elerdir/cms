@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="server (1) (com.example):war">
+    <output-path>D:/dev/git/cms-2.0/server/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>server (1) (com.example)</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="server-0.0.1-SNAPSHOT.war">
+      <element id="artifact" artifact-name="server (1) (com.example):war exploded" />
+    </root>
+  </artifact>
+</component>
