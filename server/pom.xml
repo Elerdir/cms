@@ -10,7 +10,7 @@
     </parent>
     <groupId>cz.black.mamba</groupId>
     <artifactId>server</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>21.4.0</version>
     <packaging>war</packaging>
     <name>server</name>
     <description>Demo project for Spring Boot</description>
